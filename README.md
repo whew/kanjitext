@@ -43,4 +43,4 @@ As you can see, it does not contain 33 thousand lines, but only 642. Each line c
 
 ![642](/screenshots/notepad%2B%2B_n4T8iihUj7.png?raw=true)
 
-I don't think you can really learn with this. But adding new cards or training in kanji recognition with it - why not?
+I don't think you can really *learn* with this. But adding new cards or training kanji recognition with it - why not?
