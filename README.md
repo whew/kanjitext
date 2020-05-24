@@ -4,10 +4,8 @@ Note: If you will use scripts instead of exe from releases, you should put the a
 
 Kanjitext is the simple motivational script that creates list of sentences that you can read even if you know just 10 kanjis
 
-This script uses sed and grep. They are already packaged in released exe - https://github.com/whew/kanjitext/releases
-
-First of all you need the "Kanji Grid" addon for anki. You can download it from https://ankiweb.net/shared/info/909972618
-
+This script uses sed and grep. They are already packaged in released exe - https://github.com/whew/kanjitext/releases  
+First of all you need the "Kanji Grid" addon for anki. You can download it from https://ankiweb.net/shared/info/909972618  
 Then you must generate a table of kanji you know. The key is to uncheck the "Show units not yet seen" checkbox.
 
 ![Addon](/screenshots/anki_nEJUBJ6LdV.png?raw=true "Addon")
