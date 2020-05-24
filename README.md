@@ -18,7 +18,8 @@ Let's imagine that we've just started and know only 230 kanjis.
 
 After that you should select all the kanji in the table and copy it to a separate file. Like "knownkanjis.txt" or something like that.
 
-![Copying](/screenshots/anki_l0IK3xUas8.png?raw=true "copying")
+![Copying](/screenshots/anki_l0IK3xUas8.png?raw=true "copying")  
+![Insert](/screenshots/notepad%2B%2B_pR411XlbNL.png?raw=true "insert")
 
 You should also have a text file. Preferably, in txt format. The more text you have in it, the better. In this example, I will use a file with 33 thousand sentences from the Steins;Gate VN (https://github.com/whew/steins-gate-anki)
 
