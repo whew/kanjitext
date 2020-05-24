@@ -34,7 +34,7 @@ The script will ask you some questions.
 ![question1](/screenshots/cmd_t1hSZ62a0G.png?raw=true)
 ![question2](/screenshots/cmd_IOtOn8kiC8.png?raw=true)
 
-After that the output.exe file will appear in the folder.
+After that the output.txt file will appear in the folder.
 
 ![output](/screenshots/explorer_qmZwOQoajo.png "output")
 
